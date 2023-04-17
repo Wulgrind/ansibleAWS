@@ -1,0 +1,1 @@
+Ne pas oublier de changer le hosts avec l ip de votre serveur et les id/mp, pour une version prod les mettre dans un .env

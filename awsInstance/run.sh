@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-05e8e219ac7e82eba --count 1 --instance-type t2.micro --key-name quentin --security-group-ids sg-0e758c1e9cd1bb5f7 --subnet-id subnet-06fd359705b7c2d72 --associate-public-ip-address
